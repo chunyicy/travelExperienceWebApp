@@ -3,22 +3,48 @@
 My team and I have created and developed a travel experience web app using python Django for our Agile Software Projects module.
 <br/>
 <br/>
-### Here is the link to view our project:
+
+![travel-home](https://github.com/user-attachments/assets/12761f84-62af-4fce-a061-d08a406ea495)
+
 <br/>
 
-Final Product
-<br/>
-https://www.youtube.com/watch?v=mmeW73jXgBM&t=252s 
+![travel-login](https://github.com/user-attachments/assets/c2bfabb6-742e-4b9f-a48f-7f88701ae2ed)
+
 <br/>
 
-High Fidelity Prototype
-<br/>
-https://www.youtube.com/watch?v=nzw2asQ37Wo
+![travel-register](https://github.com/user-attachments/assets/be9b6a7c-5682-4619-a0b2-b5ed59292801)
+
 <br/>
 
-Medium fidelity prototype 
+![travel-update-profile](https://github.com/user-attachments/assets/732e8a2f-f988-4ac9-ba24-d3bf4c786a1b)
+
 <br/>
-https://www.youtube.com/watch?v=umkcqNrbMU4
+
+![travel-post-content](https://github.com/user-attachments/assets/b9a932c7-fc0e-4a68-846e-8784e11a172e)
+
+<br/>
+
+![travel-search](https://github.com/user-attachments/assets/ff446fbe-bf6f-4d78-b09d-9dd4fe60fbe5)
+
+<br/>
+
+![travel-create-post](https://github.com/user-attachments/assets/775c4709-8a8e-448e-b134-759ca8a5752d)
+
+<br/>
+
+![travel-delete-post](https://github.com/user-attachments/assets/9bcc21f4-9833-4385-8aaa-9d3d2fbdb1c4)
+
+<br/>
+
+![travel-comment](https://github.com/user-attachments/assets/74ba30ba-fd02-425a-a2cf-c9cbe422349c)
+
+<br/>
+
+![travel-about](https://github.com/user-attachments/assets/9f526e9e-1553-4617-9066-a479f17b9463)
+
+<br/>
+
+![travel-contact](https://github.com/user-attachments/assets/16126b38-6bcf-4395-91e1-91ef4e9b9716)
 
 <br/>
 <br/>
